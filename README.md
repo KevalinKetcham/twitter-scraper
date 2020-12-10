@@ -1,2 +1,2 @@
-### monster.com Scraper
-#### Python scraper that finds jobs on monster.com
+### Twitter Scraper
+#### Python scraper that [???] on twitter.com
